@@ -1,5 +1,6 @@
-import Navbar from "./Navbar";
 import './Header.css'
+
+import Navbar from "./Navbar";
 import Button from "./Button";
 
 const Header = () => {
@@ -15,7 +16,7 @@ const Header = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ad
               harum maiores nulla debitis.{" "}
             </p>
-            <Button />
+            <Button text={"Delivery Now"}/>
           </div>
         </div>
       </div>

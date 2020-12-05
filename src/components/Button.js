@@ -1,11 +1,13 @@
-import './Button.css'
+import "./Button.css";
 
-const Button = () => {
-    return (
-        <div className="banner_btn">
-            <a href="">Buto</a>
-        </div>
-    )
-}
+const Button = ({text}) => {
+  return (
+    <div className="banner_btn">
+      <a href="" className="btn btn-smart">
+        {text}
+      </a>
+    </div>
+  );
+};
 
-export default Button
+export default Button;

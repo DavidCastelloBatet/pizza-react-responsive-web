@@ -1,3 +1,17 @@
 .banner_btn {
-  color: red;
+  margin-top: 35px;
+}
+.btn {
+  border: none;
+  border-radius: 30px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  outline: none;
+  padding: 20px 40px;
+  text-decoration: none;
+}
+
+.btn-smart {
+  background: rgb(161, 3, 4);
 }
