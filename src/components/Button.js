@@ -1,9 +1,9 @@
 import "./Button.css";
 
-const Button = ({text}) => {
+const Button = ({text, enllaç}) => {
   return (
     <div className="banner_btn">
-      <a href="" className="btn btn-smart">
+      <a href={enllaç} className="btn btn-smart">
         {text}
       </a>
     </div>
