@@ -2,9 +2,9 @@
   padding: 80px 0;
 }
 
-.p-26 {
+.p-25 {
   padding: 45px;
-  text-align: left;
+  text-align: right;
 }
 
 .row {
@@ -16,23 +16,25 @@
 }
 .about h3 {
   color: rgba(37, 37, 37, 0.7);
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 700;
-  margin-bottom: 17px;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .about h1 {
   color: #252525;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 700;
   line-height: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .about p {
   color: #8b8b8b;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
+  margin-bottom: 50px;
 }
 
 .about_img {
