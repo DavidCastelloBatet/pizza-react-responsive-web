@@ -10,13 +10,13 @@ const Header = () => {
       <div className="banner_content">
         <div className="container">
           <div className="banner_text">
-            <h3>Pizza Delivery</h3>
-            <h1>MAESTRO PIZINNI</h1>
+            <h3>Entrega a Domicili</h3>
+            <h1>CASTELLÓ PIZINNI</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ad
               harum maiores nulla debitis.{" "}
             </p>
-            <Button text={"Delivery Now"}/>
+            <Button text={"Entrega Ara !"}/>
           </div>
         </div>
       </div>

@@ -5,7 +5,7 @@ import "./Prices.css";
 const Prices = () => {
   return (
     <div className="prices">
-      <h1 className="titulo">Prices</h1>
+      <h1 className="titulo">Les nostres Pizzes</h1>
       <div className="container">
         <div className="row">
           {prices.map((price) => {

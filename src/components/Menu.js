@@ -15,7 +15,7 @@ const Menu = () => {
             </div>
           </div>
           <div className="col-6 p-25">
-            <h3>The Pizza Menu</h3>
+            <h3>El Menu de les Pizzes</h3>
             <h1>CHICAGO THIN CRUST</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -23,7 +23,7 @@ const Menu = () => {
               Asperiores omnis vero cumque mollitia optio dolor velit incidunt
               expedita hic est.
             </p>
-            <Button text={"View More"} enllaç={"https:\\www.google.com"} />
+            <Button text={"Veure més"}  />
           </div>
         </div>
       </div>

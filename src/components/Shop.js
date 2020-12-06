@@ -8,11 +8,11 @@ const Shop = () => {
         <div className="shop_text">
           <div>
             <h1>
-              Free Delivery With <span>PIZZA OF THE DAY </span>Only 8.99 USD
+              Entrega Gratuïta amb la <span>PIZZA DEL DIA </span>Sols <span>8.99</span> Euros
             </h1>
           </div>
         <div className="shop_btn">
-          <Button text="CALL NOW" />
+          <Button text="TRUCA ARA !" />
         </div>
         </div>
       </div>

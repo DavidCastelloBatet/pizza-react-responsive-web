@@ -17,13 +17,13 @@ const Navbar = () => {
             <a href="#">Menu</a>
           </li>
           <li>
-            <a href="#">Shop</a>
+            <a href="#">Tenda</a>
           </li>
           <li>
-            <a href="#">News</a>
+            <a href="#">Noticies</a>
           </li>
           <li>
-            <a href="#">Contact</a>
+            <a href="#">Contacte</a>
           </li>
         </ul>
       </div>
