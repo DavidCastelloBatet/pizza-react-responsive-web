@@ -29,19 +29,20 @@
 .navbar_ul {
   display: flex;
   flex-direction: row;
-  justify-content: flex-end;
+  justify-content: space-evenly;
   width: 60%;
 }
 .navbar_ul li {
   list-style-type: none;
 }
 
-.navbar_ul li a {
+.navbar_ul li p {
   color: #fff;
   font-weight: 800;
   padding: 0 30px;
   text-decoration: none;
+  background-color: rgba(0, 0, 0, 0);
 }
-.navbar_ul li a:hover {
+.navbar_ul li p:hover {
   text-transform: uppercase;
 }
