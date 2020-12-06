@@ -4,6 +4,7 @@ import About from './components/About';
 import Clients from './components/Clients';
 import Header from './components/Header';
 import Menu from './components/Menu';
+import Prices from './components/Prices';
 import Shop from './components/Shop'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Shop />
       <Menu />
       <Clients />
+      <Prices />
     </div>
   );
 }
