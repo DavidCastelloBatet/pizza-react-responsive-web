@@ -1,0 +1,27 @@
+.clients {
+  background-attachment: fixed;
+  background-image: url("../img/banner_pizza_4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  padding: 100px 0;
+  width: 100%;
+}
+
+.col-3 {
+  width: 25%;
+}
+
+.client {
+  text-align: center;
+}
+
+.client h1 {
+  font-size: 45px;
+}
+
+.client p {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 10px;
+}
